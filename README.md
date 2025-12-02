@@ -18,12 +18,15 @@ This project focuses on practicing:
 ## 🧩 Example
 
 ```
-## 🧩 Example (ASCII)
+## 🧩 Example
 
 ```text
-Enter number of coins:
-1 Pound coins: 5
-50 Piasters: 4
-25 Piasters: 6
+Please enter a Total Pennies? 20
+Please enter a Total Nickels? 12
+Please enter a Total Dimes? 32
+.
+.
+.
 
-Total Saved = 6.50
+Total Pennies = x
+Total Dollars = y
