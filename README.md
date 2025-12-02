@@ -15,11 +15,8 @@ This project focuses on practicing:
 
 ---
 
-## 🧩 Example
 
-```
 ## 🧩 Example
-
 ```text
 Please enter a Total Pennies? 20
 Please enter a Total Nickels? 12
