@@ -17,7 +17,7 @@ This project focuses on practicing:
 
 ## 🧩 Example
 
-```md
+```
 ## 🧩 Example (ASCII)
 
 ```text
