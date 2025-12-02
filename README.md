@@ -15,7 +15,7 @@ This project focuses on practicing:
 
 ---
 
-## 🐷 Piggy Bank Calculator — Example (README)
+## 🧩 Example
 
 ```md
 ## 🧩 Example (ASCII)
