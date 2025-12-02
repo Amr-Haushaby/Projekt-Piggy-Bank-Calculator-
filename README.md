@@ -1,31 +1,29 @@
-# 📊 Notendurchschnitt & Status (C++)
+# 🐷 Piggy Bank Calculator (C++)
 
 ## 📘 About the Project
-A simple yet practical **C++ console application** that calculates the **average grade** and determines the student's **status** (e.g., *Pass/Fail* or *Approved/Not Approved*) based on the final result.
+A beginner-friendly **C++ console program** that acts like a **Piggy Bank calculator**: it helps you calculate saved money based on your inputs (e.g., total deposits, coins/bills count, or a simple saving plan depending on your implementation).
 
-This project focuses on applying fundamental programming concepts, including:
+This project focuses on practicing:
 - Conditional statements
 - Loops
-- Input validation
+- User input handling
 - Functions
-- Basic arithmetic calculations
+- Arithmetic calculations
 
 ## 🛠️ Built With
 - C++
-- 
-## 🎮 How It Works (Logic)
-The program:
-1. Takes grades as input
-2. Computes the average
-3. Checks rules/thresholds
-4. Prints the final status
 
-## ✅ What I Practiced
-- Taking multiple inputs and validating them
-- Calculating averages with clean arithmetic
-- Using conditions to determine the final status
-- Organizing the solution into small functions
-- Printing clear, user-friendly output in the console
+---
 
-## 📌 Notes
-This is a learning project written as part of my C++ practice journey.
+## 🐷 Piggy Bank Calculator — Example (README)
+
+```md
+## 🧩 Example (ASCII)
+
+```text
+Enter number of coins:
+1 Pound coins: 5
+50 Piasters: 4
+25 Piasters: 6
+
+Total Saved = 6.50
